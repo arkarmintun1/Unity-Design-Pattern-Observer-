@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e33c0260-ef11-4b73-8403-341ac382b7d2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Observer1/IObserver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Observer2/Potion.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Observer2/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Observer2/Healthbar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Observer1/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Observer2/Achievement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Observer1/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Observer1/Healthbar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Observer1/IObservable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Observer1/Achievement.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Observer/IObserver.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Observer/IObservable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Observer/Timer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Observer/DetailImplementation/Achievement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Observer/DetailImplementation/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Observer/DetailImplementation/Healthbar.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Observer/DetailImplementation/IObservable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Observer/DetailImplementation/IObserver.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Observer/DetailImplementation/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Observer/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Observer/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Observer/Healthbar.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Observer/Achievement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Observer2/Healthbar.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Observer2/Potion.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Observer2/Achievement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Observer2/Player.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZMupzlsQKIzxU6awIIYIw8fG46" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e33c0260-ef11-4b73-8403-341ac382b7d2" name="Default Changelist" comment="" />
+      <created>1584661470319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584661470319</updated>
+      <workItem from="1584661471628" duration="5711000" />
+      <workItem from="1584684866191" duration="2845000" />
+      <workItem from="1584693754731" duration="3036000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state x="547" y="169" key="RiderGenerateDialog" timestamp="1584661979939">
+      <screen x="37" y="23" width="1403" height="877" />
+    </state>
+    <state x="547" y="169" key="RiderGenerateDialog/37.23.1403.877@37.23.1403.877" timestamp="1584661979939" />
+  </component>
+</project>
